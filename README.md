@@ -1,33 +1,69 @@
 
 # 🎮 RPS Arcade — Rock Paper Scissors Game in C
 
-A modern and fun **Rock-Paper-Scissors (RPS)** terminal game built in **C language**, featuring a simple interface, dynamic computer logic, and colorful console feedback.  
-Perfect for beginners exploring C programming and learning how to use conditionals, random number generation, and modular design.
+![C](https://img.shields.io/badge/Language-C-blue?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+[![Play Online](https://img.shields.io/badge/Play-Online-orange?style=flat-square)](https://replit.com/@yourusername/rps-arcade)
+
+A simple **Rock Paper Scissors** console game written in **C**. Play against the computer directly in your terminal or online via Replit!
+
+---
+
+## 🎯 Features
+- Classic Rock Paper Scissors gameplay
+- Randomized computer moves
+- Score tracking
+- Easy to compile and run
+
+---
+
+## 💻 Requirements (Local)
+- **C Compiler**:
+  - **Windows:** [MinGW](http://www.mingw.org/) / GCC
+  - **Linux/Mac:** GCC (usually pre-installed)
+
+---
+
+🌐 How to Play Online
+
+- Go to the Play Online badge above or directly to Replit.
+
+- Click "Fork" or "Run" to start the game in your browser.
+
+- Play interactively in the terminal panel provided by Replit.
+
+## 🚀 How to Play (Local)
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/supriya-cybertech/rps-arcade
+
+```
+2. **Compile the game**
+# Windows
+gcc rps-arcade.C -o rps-arcade.exe
+
+# Linux/Mac
+gcc rps-arcade.C -o rps-arcade
 
 
-## ✨ Features
+3. **Run the game**
+# Windows
+./rps-arcade.exe
 
-- 🪨💫 Play the classic Rock–Paper–Scissors game in your terminal  
-- 🎲 Randomized computer choices using rand() and time()  
-- 📊 Dynamic scoreboard (Wins, Losses, Draws)  
-- 🎨 Colored text and engaging console output  
-- 🧩 Beginner-friendly modular code structure  
-- 🖥️ Cross-platform (Windows, Linux, macOS)
+# Linux/Mac
+./rps-arcade
 
 
-## 🧠 What You’ll Learn
+4. **Follow the on-screen prompts to play against the computer.**
 
-- Using srand() and rand() for randomization  
-- Working with if-else and modular functions in C  
-- Handling user input and formatted console output  
-- Structuring and compiling C programs via terminal
+--- 
+
+📄 License
+
+This project is licensed under the MIT License - see the LICENSE
+ file for details.
 
 
-## ⚙️ How to Run
 
-### 🪟 On Windows
-gcc rps.c -o rps.exe
-./rps.exe
 
-# rps-arcade
-A modern Rock-Paper-Scissors game written in C.
