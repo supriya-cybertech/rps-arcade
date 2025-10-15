@@ -1,3 +1,5 @@
+# Ignore executables and build files
 *.exe
 *.o
+*.obj
 .vscode/
