@@ -62,7 +62,7 @@ gcc rps-arcade.C -o rps-arcade
 📄 License
 
 This project is licensed under the MIT License - see the LICENSE
- file for details.
+ file for more details.
 
 
 
