@@ -7,7 +7,7 @@
 
 A simple **Rock Paper Scissors** console game written in **C**. Play against the computer directly in your terminal or online via Replit!
 
----
+----
 
 ## 🎯 Features
 - Classic Rock Paper Scissors gameplay
